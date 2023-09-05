@@ -13,3 +13,11 @@ This project involves building a deep learning model for classifying plant disea
 5) The trained model is saved for future use.
 
 
+# Technical Stack used
+- TensorFlow
+- Keras
+- Matplotlib
+- IPython
+- data_augmentation
+- resize_and_rescale
+- layers -> Conv2D, MaxPooling2D, Flatten, Dense
